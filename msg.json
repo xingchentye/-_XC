@@ -1,0 +1,18 @@
+{
+    "0": {
+      "question": "目前未收录",
+      "answer": "目前未收录"
+    },
+    "1": {
+      "question": "Windows系统怎么运行FB",
+      "answer": "双击FB程序"
+    },
+    "2": {
+      "question": "Linux系统怎么运行FB",
+      "answer": "在终端输入./+文件名"
+    },
+    "3": {
+      "question": "MacOS系统怎么运行FB",
+      "answer": "目前未收录"
+    }
+  }
