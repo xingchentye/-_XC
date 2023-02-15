@@ -14,5 +14,13 @@
     "3": {
       "question": "MacOS系统怎么运行FB",
       "answer": "目前未收录"
+    },
+    "4": {
+      "question": "FB用户中心地址",
+      "answer": "uc.fastbuilder.pro"
+    },
+    "5": {
+      "question": "建筑生成命令",
+      "answer": "\nschem -p <filePath>\nacme -p <filePath>\nbdump -p <filePath>"
     }
   }
