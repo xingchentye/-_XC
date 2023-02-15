@@ -22,5 +22,29 @@
     "5": {
       "question": "建筑生成命令",
       "answer": "\nschem -p <filePath>\nacme -p <filePath>\nbdump -p <filePath>"
+    },
+    "6": {
+      "question": "炎欧 FastBuider wiki",
+      "answer": "wiki.yanou.xyz"
+    },
+    "7": {
+      "question": "Torrekie",
+      "answer": "Torrekie是FastBuilder的开发之一"
+    },
+    "8": {
+      "question": "2401PT",
+      "answer": "2401PT是FastBuilder的开发之一,omega的开发者"
+    },
+    "9": {
+      "question": "RUPHANE",
+      "answer": "RUPHANE是FastBuilder的开发之一,omega的开发者"
+    },
+    "10": {
+      "question": "南兮",
+      "answer": "DotCS运营"
+    },
+    "11": {
+      "question": "github",
+      "answer": "GitHub是一个面向开源及私有软件项目的托管平台,因为只支持Git作为唯一的版本库格式进行托管,故名GitHub2022年4月13日起,GitHub 开始封锁受美国制裁公司的俄罗斯开发者账户"
     }
   }
